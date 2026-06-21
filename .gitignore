@@ -4,3 +4,5 @@ __pycache__/
 outputs/
 skills/*/outputs/
 requirement/
+.claude/
+serenity_ashare/

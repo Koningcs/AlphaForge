@@ -1,0 +1,4 @@
+interface:
+  display_name: "A Share Trend"
+  short_description: "Analyze A-share stock trend"
+  default_prompt: "Use -share-trend to analyze the trend for stock code 300308."

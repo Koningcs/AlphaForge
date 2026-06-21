@@ -1,0 +1,4 @@
+interface:
+  display_name: "A Share Market Environment"
+  short_description: "Analyze A-share market environment"
+  default_prompt: "Use -share-market-environment to analyze the current A-share market environment."

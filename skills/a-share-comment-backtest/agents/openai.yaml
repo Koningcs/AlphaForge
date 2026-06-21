@@ -1,0 +1,4 @@
+interface:
+  display_name: "A-share Comment Backtest"
+  short_description: "Build Guba sentiment backtest data."
+  default_prompt: "Use $a-share-comment-backtest to build Eastmoney Guba comment windows and M-trading-day forward-return labels for an A-share sentiment backtest."

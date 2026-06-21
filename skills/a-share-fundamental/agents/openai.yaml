@@ -1,0 +1,4 @@
+interface:
+  display_name: "A Share Fundamental"
+  short_description: "Fetch and summarize A-share fundamentals"
+  default_prompt: "Use $a-share-fundamental to fetch and summarize fundamental data for stock code 300308."

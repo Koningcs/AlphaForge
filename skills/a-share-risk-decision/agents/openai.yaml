@@ -1,0 +1,4 @@
+interface:
+  display_name: "A Share Risk Decision"
+  short_description: "Synthesize A-share risk decision framework"
+  default_prompt: "Use -share-risk-decision to synthesize the risk decision framework for stock code 300308."

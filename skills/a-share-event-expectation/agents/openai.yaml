@@ -1,0 +1,4 @@
+interface:
+  display_name: "A Share Event Expectation"
+  short_description: "Analyze A-share events and expectations"
+  default_prompt: "Use -share-event-expectation to analyze events and expectations for stock code 300308."

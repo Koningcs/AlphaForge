@@ -1,0 +1,4 @@
+interface:
+  display_name: "A Share Industry Trend"
+  short_description: "Analyze A-share industry trend"
+  default_prompt: "Use -share-industry-trend to analyze the industry trend for stock code 300308."
